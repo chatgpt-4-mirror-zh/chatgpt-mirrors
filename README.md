@@ -1,44 +1,19 @@
 # 国内 ChatGPT国内中文版镜像网站整理（2024年10月最新）
 
-## 介绍
-在本仓库中，我们汇总整理了多个国内 ChatGPT-4 中文版镜像网站，帮助用户在正常网络下也能访问 GPT。
+给大家整理了一些国内中文版的可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
-### 免责声明
-请注意，以下所有链接和资源均为外部网站，我们不对其内容的合法性、安全性及稳定性负责。用户需自行判断其风险并酌情访问。请确保在使用这些网站时遵守相关法律法规。
+**什么是镜像网站？**
+镜像网站是指将原始网站的内容复制并放置在另一服务器上的网站。这个概念通常应用于提供备用访问途径，为主站点的繁重流量提供缓解。一般来说，镜像网站会更新以保持与原始网站相同的内容，但这个更新的频率可能因镜像站点的设定不同而不同。
 
-## 国内 ChatGPT 中文版镜像资源
+
+**国内ChatGPT中文版**
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 支持 GPT4、4o 支持 MJ 绘画
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4o 支持 MJ 绘画
 - [https://lanjing.ai/](https://lanjing.ai/) - 支持 GPT4、4o 支持 MJ 绘画
-- [http://chat.forwardminded.xyz/](http://chat.forwardminded.xyz/)
-- [https://ssgpt.chat/](https://ssgpt.chat/) - 支持 4o 
-- [https://gezhe.com/](https://gezhe.com/) 
-- [http://www.gpt-smart.com/](http://www.gpt-smart.com/)
-- [https://chat.mac89.com/](https://chat.mac89.com/)
-- [https://front2.stargpt.top/#/chat](https://front2.stargpt.top/#/chat)
-- [https://chatgpt.ctfcode.com/#/register](https://chatgpt.ctfcode.com/#/register)
-- [http://chat.niitcxl.cn](http://chat.niitcxl.cn)
-- [https://dittin.com/](https://dittin.com/)
-- [https://chat.yokonsan.com/](https://chat.yokonsan.com/)
-- [https://chat.douresources.com](https://chat.douresources.com)
-- [https://gpthink.xyz/#/chat](https://gpthink.xyz/#/chat)
-- [https://gpt.fly2you.cn/web/](https://gpt.fly2you.cn/web/)
-- [http://ai.wikll.com](http://ai.wikll.com)
-- [http://chat.iisai.cn](http://chat.iisai.cn)
-- [http://mychatos.top/#/chat](http://mychatos.top/#/chat)
-- [https://itedus.cn](https://itedus.cn)
-- [https://chatbot.theb.ai/](https://chatbot.theb.ai/)
-- [https://chat-shared.zhile.io/shared.html](https://chat-shared.zhile.io/shared.html)
-- [https://gpt.mqgggg.top/](https://gpt.mqgggg.top/)
-- [https://huggingface.co/chat/](https://huggingface.co/chat/)
-- [https://h2o.ai/](https://h2o.ai/)
-- [https://chatgptmirror.com/](https://chatgptmirror.com/)
-- [http://huangkz.chat](http://huangkz.chat)
-- [https://openai.tdp.icu](https://openai.tdp.icu)
-- [https://chat.2.bnu120.space/](https://chat.2.bnu120.space/)) - 无需登陆，界面简洁，免费使用，国内可以访问 （2023-8-30）
+
 ## 国内自研大模型汇总
 
 - [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，百度出品
