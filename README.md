@@ -2,12 +2,12 @@
 
 给大家整理了一些国内中文版的可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
-**什么是镜像网站？**
+## 什么是镜像网站？
 
 镜像网站是指将原始网站的内容复制并放置在另一服务器上的网站。这个概念通常应用于提供备用访问途径，为主站点的繁重流量提供缓解。一般来说，镜像网站会更新以保持与原始网站相同的内容，但这个更新的频率可能因镜像站点的设定不同而不同。
 
 
-**国内ChatGPT中文版**
+## 国内ChatGPT中文版
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
@@ -26,7 +26,7 @@
 - [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，360 出品
 - [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 清华大学唐杰团队开发
 
-### 国外其它大模型汇总
+## 国外其它大模型汇总
 
 - [https://talk.truthgpt.one/](https://talk.truthgpt.one/) - 马斯克出品，无需魔法，无需注册账号，直接使用
 
